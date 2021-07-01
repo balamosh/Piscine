@@ -1,0 +1,5 @@
+Credentials cache: API:15921
+        Principal: sotherys@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jun  8 14:17:52 2021  Jun  9 14:17:52 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
